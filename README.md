@@ -2,4 +2,4 @@
 A simple shooter game built with JavaScript and HTML5 Canvas
 
 ## Play
-https://saebnaser.github.io/Rainbow-Shooter/
+https://saeb0x.github.io/Rainbow-Shooter/
